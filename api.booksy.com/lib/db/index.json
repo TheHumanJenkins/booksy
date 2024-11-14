@@ -1,0 +1,61 @@
+{
+  "company": {
+    "name": "Virile Barber & Shop",
+    "type": "LLC",
+    "address": {
+      "phone_number": "8009360383",
+      "street_1": "510 Jersey Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "country": "USA"
+    }
+  },
+  "gusto": {
+    "company_uuid": "aae6658b-f669-485e-9527-1f32a88a1a85",
+    "access_token": "Hgy_w37MD4TmIGOvzTgoEHYIKfklaKW8pBEJJhAX9o4",
+    "refresh_token": "cgqfuYzYVDd4HTqvCIL_TJMDZ1ED8-BqRTUcQsig-mU"
+  },
+  "owner": {
+    "firstName": "Justin",
+    "lastName": "Jenkins",
+    "email": "jj-gusto@gmail.com"
+  },
+  "employees": [
+    {
+      "first_name": "Justin",
+      "last_name": "Jenkins",
+      "email": "jj-gusto@gmail.com",
+      "date_of_birth": "1980-01-02",
+      "ssn": "123221234"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "js-gusto@gmail.com",
+      "date_of_birth": "1980-01-03",
+      "ssn": "123331234"
+    },
+    {
+      "first_name": "Zachery",
+      "last_name": "Acosta",
+      "email": "za-gusto@gmail.com",
+      "date_of_birth": "1980-01-04",
+      "ssn": "123441234"
+    },
+    {
+      "first_name": "Hazel",
+      "last_name": "Hines",
+      "email": "hh-gusto@gmail.com",
+      "date_of_birth": "1980-01-05",
+      "ssn": "123551234"
+    },
+    {
+      "first_name": "Marlin",
+      "last_name": "Spence",
+      "email": "ms-gusto@gmail.com",
+      "date_of_birth": "1980-01-01",
+      "ssn": "123111234"
+    }
+  ]
+}

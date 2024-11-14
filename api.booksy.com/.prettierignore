@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+coverage
+.wwebjs_auth?8
+.wwebjs_cache/*
+node_modules/*
+

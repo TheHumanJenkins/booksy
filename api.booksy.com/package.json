@@ -1,0 +1,24 @@
+{
+  "name": "api.booksy.com",
+  "version": "1.0.0",
+  "description": "Booksy Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "npx prettier . --write",
+    "format:check": "npx prettier . --check"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@hapi/glue": "^9.0.1",
+    "@hapi/hapi": "^21.3.10",
+    "@hapi/inert": "^7.1.0",
+    "@hapi/vision": "^7.0.3",
+    "@hapi/wreck": "^18.1.0",
+    "blipp": "^4.0.2",
+    "dotenv": "^16.4.5",
+    "hapi-pino": "^12.1.0",
+    "node-fetch": "^2.7.0",
+    "prettier": "^3.3.3"
+  }
+}
