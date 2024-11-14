@@ -1,4 +1,4 @@
-![](./public/images/Booksy.png){: width="200px"}
+![](./public/images/Booksy.png)
 
 ### Front End
 

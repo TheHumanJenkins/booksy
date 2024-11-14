@@ -1,4 +1,4 @@
-![](app.booksy.com/public/images/Booksy.png){: width="200px"}
+![](app.booksy.com/public/images/Booksy.png)
 
 ### Booksy Frontend & Backend
 
